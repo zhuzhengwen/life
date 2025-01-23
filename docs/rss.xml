@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>zhengwen life</title><link>https://zhuzhengwen.github.io/life</link><description>用心感受每一个瞬间</description><copyright>zhengwen life</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://zhuzhengwen.github.io/life</link></image><lastBuildDate>Sat, 04 Jan 2025 16:11:16 +0000</lastBuildDate><managingEditor>zhengwen life</managingEditor><ttl>60</ttl><webMaster>zhengwen life</webMaster><item><title>typeScript对象类型定义</title><link>https://zhuzhengwen.github.io/life/post/typeScript-dui-xiang-lei-xing-ding-yi.html</link><description>**对象类型**&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>正文</title><link>https://zhuzhengwen.github.io/life</link><description>知足</description><copyright>正文</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://zhuzhengwen.github.io/life</link></image><lastBuildDate>Thu, 23 Jan 2025 05:17:31 +0000</lastBuildDate><managingEditor>正文</managingEditor><ttl>60</ttl><webMaster>正文</webMaster><item><title>typeScript对象类型定义</title><link>https://zhuzhengwen.github.io/life/post/typeScript-dui-xiang-lei-xing-ding-yi.html</link><description>**对象类型**&#13;
  ```typescript&#13;
 // The parameter's type annotation is an object type&#13;
 function printCoord(pt: { x: number; y: number }) {&#13;
@@ -8,23 +8,4 @@ function printCoord(pt: { x: number; y: number }) {&#13;
 }&#13;
 printCoord({ x: 3, y: 7 });&#13;
  ```&#13;
-两个属性的类型注释了参数 - x 和 y - 均为 number 型。</description><guid isPermaLink="true">https://zhuzhengwen.github.io/life/post/typeScript-dui-xiang-lei-xing-ding-yi.html</guid><pubDate>Tue, 01 Jan 2019 01:48:00 +0000</pubDate></item><item><title>about</title><link>https://zhuzhengwen.github.io/life/about.html</link><description>![wx_camera_1735467079661.jpg](https://github.com/user-attachments/assets/b5e03771-c4b7-473e-ac7b-32781ed615d0)&#13;
-&#13;
-![IMG_20241214_172816.jpg](https://github.com/user-attachments/assets/e41320ff-893c-43da-8630-edbd1551026e)&#13;
-&#13;
-&lt;!-- ##{'style':'&lt;style&gt;&#13;
-#postBody {&#13;
-    column-count: 4; &#13;
-    column-gap: 15px; &#13;
-    width: 100%; &#13;
-}&#13;
- &#13;
-#postBody p img {&#13;
-    width: 100%;&#13;
-    display: block;&#13;
-    margin: 0 0 15px;&#13;
-}&#13;
- &#13;
-#postBody p {&#13;
-    margin: 0;&#13;
-}&lt;/style&gt;'}## --&gt;。</description><guid isPermaLink="true">https://zhuzhengwen.github.io/life/about.html</guid><pubDate>Mon, 30 Dec 2024 08:12:40 +0000</pubDate></item></channel></rss>
+两个属性的类型注释了参数 - x 和 y - 均为 number 型。</description><guid isPermaLink="true">https://zhuzhengwen.github.io/life/post/typeScript-dui-xiang-lei-xing-ding-yi.html</guid><pubDate>Tue, 01 Jan 2019 01:48:00 +0000</pubDate></item></channel></rss>
